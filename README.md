@@ -6,4 +6,4 @@ Bot basing on dictionary reinforced with bruteforce for Facebook game Word Blitz
 [ ] faster word search
 [ ] other languages
 
-![Alt Text](https://media.giphy.com/media/dVd0L7wnpBXmmN2Ww9/giphy.gif)
+<iframe src="https://giphy.com/embed/dVd0L7wnpBXmmN2Ww9" width="329" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dVd0L7wnpBXmmN2Ww9">via GIPHY</a></p>
